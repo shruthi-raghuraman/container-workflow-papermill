@@ -1,0 +1,5 @@
+jupyter
+flask
+papermill
+pyarrow==0.13.0
+ipykernel
